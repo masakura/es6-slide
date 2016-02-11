@@ -120,7 +120,7 @@ class Foo {
 }
 
 class Bar {
-  piyo() {}
+  static piyo() {}
 }
 ```
 
