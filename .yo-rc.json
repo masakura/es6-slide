@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "ECMAScript 6",
+    "packageVersion": "0.0.0",
+    "revealTheme": "sky",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "masakura",
+    "githubRepository": "es6-slide"
+  }
+}
