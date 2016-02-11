@@ -1,5 +1,7 @@
 ### 2015
 
+ToDo 画像を入れる
+
 * ECMAScript 6 が承認
   - 久々の大規模アップデート!
 * 標準化を [GitHub](https://github.com/tc39/ecma262) で行われていることも特徴!
