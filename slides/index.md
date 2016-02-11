@@ -1,10 +1,7 @@
-
 # ECMAScript 6
 
-From the terminal, pop in:
+ECMAScript 6 勉強会 in 熊本
 
-  ```yo reveal:slide "Slide Title"```
+2016/02/14 (日)
 
-Available options:
-
- ```--markdown --attributes --notes```
+政倉 智
