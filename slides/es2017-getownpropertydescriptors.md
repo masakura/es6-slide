@@ -1,0 +1,3 @@
+### Object.getOwnPropertyDescriptors
+
+これちょっとよく分かりませんでした...
