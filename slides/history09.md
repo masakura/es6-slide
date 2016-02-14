@@ -1,6 +1,6 @@
 ### 2015
 
-ToDo 画像を入れる
+![timeline](resources/history-2015.png)
 
 * ECMAScript 6 が承認
   - 久々の大規模アップデート!

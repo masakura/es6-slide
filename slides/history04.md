@@ -1,6 +1,6 @@
 ### 1999
 
-ToDo 画像を入れる
+![timeline](resources/history-1999.png)
 
 * ECMAScript 3 が承認される
 * 今の ECMAScript の基礎がここに!

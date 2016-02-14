@@ -1,6 +1,6 @@
 ### 2009
 
-ToDo 画像を入れる
+![timeline](resources/history-2009.png)
 
 * ECMAScript 5 (ECMAScript 3.1 改め) が承認される
 * あまり大きな変化はない
