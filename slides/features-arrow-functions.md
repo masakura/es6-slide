@@ -17,12 +17,10 @@ var obj = {
 ```
 
 ```javascript
-// ES5.1
+// ES6
 var obj = {
   display: function () {}
   init: function () {
-    var that = this;
-
     document.addEventListener('load', () => this.display());
   }
 };
