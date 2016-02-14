@@ -78,9 +78,16 @@
     "es2017-simd.md",
     "es2017-async.md",
     "es2017-object.md",
-    "es2017-obstring.md",
     "es2017-string.md",
     "es2017-trailingcommas.md",
     "es2017-getownpropertydescriptors.md",
-    "es2017-03.md"
+    "es2017-03.md",
+    "summary00.md",
+    "summary01.md",
+    "summary01.md",
+    "summary02.md",
+    "summary03.md",
+    "summary04.md",
+    "summary05.md",
+    "summary06.md"
 ]
