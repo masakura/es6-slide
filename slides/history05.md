@@ -1,6 +1,6 @@
 ### 2000
 
-ToDo 画像を入れる
+![timeline](resources/history-2000.png)
 
 * ECMAScript 4 の仕様策定の開始
 * 新機能てんこ盛り!

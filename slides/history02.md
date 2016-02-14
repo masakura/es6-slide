@@ -1,5 +1,5 @@
 ### 1997
 
-ToDo 画像を入れる
+![timeline](resources/history-1997.png)
 
 * ECMAScript 1 が承認される

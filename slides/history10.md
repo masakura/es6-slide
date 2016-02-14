@@ -1,6 +1,6 @@
 ### 2016
 
-ToDo 画像を入れる
+![timeline](resources/history-2016.png)
 
 * ECMAScript 2016 が承認される... はず
   - ECMAScript 6 は年次リリースになるので、年号がつく

@@ -1,6 +1,6 @@
 ### 1998
 
-ToDo 画像を入れる
+![timeline](resources/history-1998.png)
 
 * ECMAScript 2 が承認される
   - そんなに変わってないらしい...
